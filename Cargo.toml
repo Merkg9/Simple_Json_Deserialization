@@ -1,5 +1,5 @@
 [package]
-name = "gui"
+name = "SDE"
 version = "0.1.0"
 authors = ["MerkG9"]
 edition = "2018"
